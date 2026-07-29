@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Hina Solangi</h1>
+<h1 align="center">Hi 👋, I'm Komal</h1>
 
 <h3 align="center">
 Backend Software Engineer | Laravel & PHP Developer | REST APIs | MySQL | Enterprise Applications
