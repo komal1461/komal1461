@@ -26,9 +26,8 @@ Currently working as a **Software Engineer** where I contribute to large-scale F
 
 ### Software Engineer — Verge System
 
-- Developed enterprise Finance (Loan Management) modules.
+- Developed  (Loan Management) modules.
 - Built and maintained HRMS features.
-- Designed secure REST APIs.
 - Optimized MySQL databases and SQL queries.
 - Developed reporting modules and workflow automation.
 - Collaborated with cross-functional teams to deliver scalable business solutions.
